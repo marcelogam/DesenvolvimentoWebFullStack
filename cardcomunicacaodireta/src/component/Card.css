@@ -1,0 +1,24 @@
+.Card {
+    background-color: rgb(162, 107, 107);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid rgb(162, 107, 107);
+    margin: 20px;
+}
+
+.Title {
+    justify-content: center;
+    display: flex;
+    color: rgb(255, 252, 252);
+}
+
+.Content {
+    background-color: rgb(197, 197, 151);
+    padding: 20px;
+}
+
+.Children {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}

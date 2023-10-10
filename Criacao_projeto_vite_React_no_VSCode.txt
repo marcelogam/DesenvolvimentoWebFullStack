@@ -1,0 +1,28 @@
+Como riar um projeto React no VSCode
+
+Instale o Node.js, npm e npx.
+Verifique se estão instalados verificando-se a versão.
+Digite:
+node -v
+npm -v
+npx -v
+
+
+Abra o terminal 
+--> vá para a pasta onde deseja criar o projeto
+--> digite: npm create vite@latest primeiro_projeto_react  --template react
+
+O nome deve ser em minúsculo
+
+Digite: 
+cd primeiro_projeto_react
+
+Para abrir o VSCode, digite:
+code .
+
+No terminal do VSCode, digite:
+npm run dev
+Siga a orientação que aparece no terminal para abrir o browser.
+
+Um navegador será a aberto com a uma página inicial do react.
+
