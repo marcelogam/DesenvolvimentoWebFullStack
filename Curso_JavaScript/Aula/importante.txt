@@ -1,0 +1,56 @@
+AULA 1:
+O que e o JavaScript?
+    .Linguagem de programacao interpretada
+    .Evolui conforme a especificacao ECMAScript
+    .E executada no navegador(cliente) e tambem no servidor(node.js)
+Por que aprender JavaScript?
+    .E a Linguagem de programacao padrao de todos os navegadores
+    .Frameowrk poderosissimo, como React, utilizam JavaScript
+    .Usado para desenvolver aplicacoes full stack(front-end e back-end)
+    .Usado em desenvolvimento mobile(React Native)
+    .Usado em aplicacoes desktop(Eletron)
+    .Basicamente, ele esta por toda parte
+
+AULA 2:
+3 formas de declarar variavel no JavaScript:
+    .var message = 'Hello world!'
+        -Nao e mais muito usado, pois consegue ser acessada fora do scopo de vida
+    .const 
+        -A gente nao consegue altera-la depois
+    .let
+        -A gente consegue altera-la depois
+Null & Undefined
+    .null e igual a algo vazio
+    .Undefined e igual a algo indefinido
+
+AULA 3:
+Alguns metodos em lista
+
+AULA 4:
+Metodos de lista
+    .Map
+        -Passar por todos os elementos
+    .Filter
+        -Filtra os elementos
+    .Reduce
+        -Reduz todos os elementos
+
+AULA 5:
+Vimos objetos, como cria-los e podendo criar um objeto dentro de um objeto e uma lista de objetos
+
+AULA 6:
+Transformar uma lista em um objeto JSON
+Transformar um Objeto JSON em uma lista
+
+AULA 7:
+Aulas de loop 
+    .for
+    .foreach
+    while
+
+AULA 8:
+Condicionais
+    .if and else 
+    .Switch case
+
+AULA 9:
