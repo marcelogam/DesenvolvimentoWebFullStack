@@ -1,0 +1,19 @@
+.layout{
+  display: flex;
+  flex-basis: 100px;
+  background-color: #d3c5cf ;
+}
+
+.menu{
+  flex-basis: 100px;
+  background-color: skyblue
+}
+
+.menu ul{
+  list-style: none;
+  padding : 10px;
+}
+
+.conteudo{
+  padding : 10px;
+}
