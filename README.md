@@ -1,2 +1,2 @@
 # DesenvolvimentoWebFullStack
- Repositorio criado para aprendizagem de React e NodyJs
+ Repositorio criado para aprendizagem de React e NodeJs
